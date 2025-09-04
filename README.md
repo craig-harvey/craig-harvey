@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/os-linux-2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 <!--
 **craig-harvey/craig-harvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
