@@ -12,7 +12,7 @@ I love automating my life with tech 🤖
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 #### Developer Tools:
-![](https://img.shields.io/badge/.-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/.-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
