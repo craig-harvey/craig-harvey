@@ -12,14 +12,15 @@ I am a
 AWS
 Azure
 
-### DevOps
-![](https://img.shields.io/badge/CICD-Jenkins-informaional?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+### 🚚 DevOps
+![](https://img.shields.io/badge/.-Jenkins-informaional?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 <br><br>
-![](https://img.shields.io/badge/Repository-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)<br>
-![](https://img.shields.io/badge/Repository-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)   
+![](https://img.shields.io/badge/.-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-### ⚙️ Metrics
+### ⚙️ Metrics & Dashboards
 ![](https://img.shields.io/badge/.-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/.-InfluxDB-informaional?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 
 <!--
