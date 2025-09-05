@@ -1,27 +1,30 @@
 ## Welcome 👋
-I am a 
+I am an experienced technology consultant sitting across the entire software delivery lifecycle.
 
-### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+I love automating my life with tech 🤖
 
-### ☁️ Cloud
-AWS
-Azure
+### Technologies & Tools
 
-### 🚚 DevOps
-![](https://img.shields.io/badge/.-Jenkins-informaional?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-<br><br>
-![](https://img.shields.io/badge/.-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)   
-![](https://img.shields.io/badge/.-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
-
-### ⚙️ Metrics & Dashboards
-![](https://img.shields.io/badge/.-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+#### OS: 
+![](https://img.shields.io/badge/.-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 <br>
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+#### Developer Tools:
+![](https://img.shields.io/badge/.-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/.-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-Jenkins-informaional?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/.-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
+#### Metrics
+![](https://img.shields.io/badge/.-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/.-InfluxDB-informaional?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
+#### Cloud
+![](https://img.shields.io/badge/.-AWS-informational?style=flat&logo=cloud&logoColor=white&color=2bbc8a)
 
 <!--
 **craig-harvey/craig-harvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
