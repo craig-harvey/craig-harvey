@@ -12,11 +12,11 @@ I am a
 AWS
 Azure
 
-### Deployment
+### DevOps
 ![](https://img.shields.io/badge/CICD-Jenkins-informaional?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Repository-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/repository-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
+<br><br>
+![](https://img.shields.io/badge/Repository-Bitbucket-informaional?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/Repository-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ### ⚙️ Metrics
 ![](https://img.shields.io/badge/Dashboards-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
