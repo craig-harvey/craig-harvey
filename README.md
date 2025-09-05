@@ -19,7 +19,7 @@ Azure
 ![](https://img.shields.io/badge/Repository-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ### ⚙️ Metrics
-![](https://img.shields.io/badge/%20-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/_-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/%20-InfluxDB-informaional?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 
 <!--
