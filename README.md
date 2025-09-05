@@ -19,8 +19,8 @@ Azure
 ![](https://img.shields.io/badge/Repository-Github-informaional?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ### ⚙️ Metrics
-![](https://img.shields.io/badge/Dashboards-Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datastore-InfluxDB-informaional?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Grafana-informaional?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/InfluxDB-informaional?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 
 <!--
 **craig-harvey/craig-harvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
