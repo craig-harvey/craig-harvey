@@ -28,6 +28,7 @@ I love automating my life with tech 🤖
 ![](https://img.shields.io/badge/.-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=craig-harvey)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craig-harvey&size_weight=0.5&count_weight=0.5)
 
 <!--
 **craig-harvey/craig-harvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
