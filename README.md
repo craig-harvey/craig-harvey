@@ -4,7 +4,7 @@
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craig-harvey&size_weight=0.5&count_weight=0.5&theme=radical">
 </div>
 
-I am an experienced technology consultant sitting across the entire software delivery lifecycle.
+I am an experienced technology practitioner sitting across the entire software delivery lifecycle.
 
 I love automating my life with tech 🤖  Check out my repos for more.
 
